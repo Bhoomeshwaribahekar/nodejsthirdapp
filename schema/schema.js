@@ -8,7 +8,7 @@ const student = new mongoose.Schema({
         type: Number 
     },
     class:{
-        type: String
+        type: String ////
     },
     payment:{
         type: Number
