@@ -5,7 +5,7 @@ const student = new mongoose.Schema({
         type: String
     },
     mobile:{
-        type: Number //
+        type: Number 
     },
     class:{
         type: String
