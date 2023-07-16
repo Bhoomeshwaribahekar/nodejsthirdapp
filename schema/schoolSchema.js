@@ -18,3 +18,4 @@ const skill = new mongoose.Schema({
 const dailys = mongoose.model("Knowledge", skill);
 module.exports = dailys;
 //////schjkscb
+// kjhkhkj
